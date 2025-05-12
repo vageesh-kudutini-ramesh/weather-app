@@ -1,0 +1,1 @@
+const openWeatherAPIKey = 'Add your API key here after getting it from Open weather website';
